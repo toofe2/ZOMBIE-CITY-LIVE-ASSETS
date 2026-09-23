@@ -1,0 +1,8 @@
+{
+  "repo": "toofe2/ZOMBIE-CITY-LIVE-ASSETS",
+  "branch": "main",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/toofe2/ZOMBIE-CITY-LIVE-ASSETS@main/",
+  "rawBase": "https://raw.githubusercontent.com/toofe2/ZOMBIE-CITY-LIVE-ASSETS/main/",
+  "status": "external-assets-configured",
+  "note": "Binary GLB asset upload will use Git objects/base64 or external hosting; game code should resolve assets from cdnBase with graceful fallbacks."
+}
